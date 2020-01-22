@@ -12,8 +12,8 @@ import org.apache.pdfbox.text.PDFTextStripper;
 
 public class PdfToText {
 
-	private static final String INPUT_PATH = "D:\\Daten\\Uni\\Promotion\\Korpus\\Regulatory Documents\\REGDOC\\IAEA";
-	private static final String OUTPUT_PATH = "D:\\Daten\\Uni\\Promotion\\Korpus\\Regulatory Documents\\REGDOC\\IAEA-TXT\\";
+	private static final String INPUT_PATH = "C:\\input\\path\\";
+	private static final String OUTPUT_PATH = "C:\\output\\path\\";
 	
 	public static void main(String args[]) throws IOException {
 
