@@ -6,7 +6,7 @@ For questions on the corpus please write to a.korger[ät]angesagt-gmbh.de
 
 Files:
 
-CreateLuceneIndexFromFolder.java
+##CreateLuceneIndexFromFolder.java
   
 PIRIOntologyToCaseBase.java
 
