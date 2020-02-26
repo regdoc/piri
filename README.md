@@ -6,4 +6,15 @@ For questions on the corpus please write to a.korger[ät]angesagt-gmbh.de
 
 Files:
 
+CreateLuceneIndexFromFolder.java
+  
+PIRIOntologyToCaseBase.java
+
+PdfToText.java 	Add files via upload 	last month
+
+REGDOC-Ontology-Version-1-0-beta.rdf (.ttl)
+Ontology containing classes for hierarchical incidendt and mesaure classification.
+
+myCBR-model-PIRI-Fire-Version-1-0-beta.prj
+
 
