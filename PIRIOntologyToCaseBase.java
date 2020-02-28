@@ -90,7 +90,7 @@ public class PIRIOntologyToCaseBase {
 		// *************************************************************************************
 		String queryStringIU = "PREFIX rdf: <"+NS_RDF+"> PREFIX regdoc: <"+NS_REGDOC+"> PREFIX rdfs: <"+NS_RDFS+">"
 				+ " SELECT ?x ?annotation ?y ?yLabel ?context ?file \r\n"
-				+ "WHERE { ?x regdoc:hasContent ?annotation . ?x rdf:type ?y. ?y rdfs:label ?v. ?x regdoc:partOf ?context. ?context regdoc:hasFile ?file. FILTER(LANGMATCHES(LANG(?v), \"en\")). BIND (SUBSTR(STR(?v), 1) AS ?yLabel)}";
+				+ "WHERE { ?x regdoc:hasAnnotation ?annotation . ?x rdf:type ?y. ?y rdfs:label ?v. ?x regdoc:partOf ?context. ?context regdoc:hasFile ?file. FILTER(LANGMATCHES(LANG(?v), \"en\")). BIND (SUBSTR(STR(?v), 1) AS ?yLabel)}";
 
 		org.apache.jena.query.Query queryIU = QueryFactory.create(queryStringIU);
 		QueryExecution queryExecutionIU = QueryExecutionFactory.create(queryIU, model);
