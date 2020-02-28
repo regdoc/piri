@@ -29,3 +29,7 @@ Ontology containing classes for hierarchical incident and measure classification
 ### myCBR-model-PIRI-Fire-Version-1-0-beta.prj
 
 Project-file for myCBR containing the case-based model.
+
+### KnowWE-workspace-Version-1-0-beta.zip
+
+Contains a ready-to-use KnowWE workspace with the implemented ontology identical to the provided RDF- and TTL-files. To set up the semantic wiki, download KnowWE from www.d3web.de and follow the instructions available there.
