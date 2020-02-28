@@ -10,15 +10,22 @@ For questions on the corpus please write to a.korger[ät]angesagt-gmbh.de
 
 ## Files:
 
+### PdfToText.java
+
+Uses Apache PDFBox to convert all PDf-files in a folder to TXT-files.
+
 ### CreateLuceneIndexFromFolder.java
+
+Creates a Apache Lucene index from the input folder.
   
 ### PIRIOntologyToCaseBase.java
 
-### PdfToText.java
+Takes an ontology file as input and creates two CSV-files from it. One containing all information-unit-cases and one containing all PIRI-cases derivable from the input ontology.
 
 ### REGDOC-Ontology-Version-1-0-beta.rdf (.ttl)
+
 Ontology containing classes for hierarchical incidendt and mesaure classification.
 
 ### myCBR-model-PIRI-Fire-Version-1-0-beta.prj
 
-
+Project-file for myCBR containing the case-based model.
