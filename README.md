@@ -24,7 +24,7 @@ Takes an ontology file as input and creates two CSV-files from it. One containin
 
 ### REGDOC-Ontology-Version-1-0-beta.rdf (.ttl)
 
-Ontology containing classes for hierarchical incidendt and mesaure classification.
+Ontology containing classes for hierarchical incident and measure classification.
 
 ### myCBR-model-PIRI-Fire-Version-1-0-beta.prj
 
