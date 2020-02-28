@@ -4,7 +4,7 @@ Please be patient. The corpus is still in beta condition. We are continously wor
 
 ## Copyright
 
-This is a RESEARCH BODY, NOT real guidance information from the Internatioal Atomic Energy Agency (IAEA). All rights for IAEA content belong to the IAEA. For direct information and guidance visit www.iaea.org 
+This is a RESEARCH BODY, NOT real guidance information from the Internatioal Atomic Energy Agency (IAEA). The corpus bases on publications from the IAEA. All rights for IAEA content belong to the IAEA. For direct information and guidance visit www.iaea.org 
 
 For questions on the corpus please write to a.korger[ät]angesagt-gmbh.de
 
@@ -24,7 +24,7 @@ Takes an ontology file as input and creates two CSV-files from it. One containin
 
 ### REGDOC-Ontology-Version-1-0-beta.rdf (.ttl)
 
-Ontology containing classes for hierarchical incident and measure classification.
+Ontology containing classes for hierarchical incident and measure classification. For more information have a look at the ontology, classes and porperties are self-describing.
 
 ### myCBR-model-PIRI-Fire-Version-1-0-beta.prj
 
