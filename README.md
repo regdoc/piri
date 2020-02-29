@@ -22,6 +22,10 @@ Creates a Apache Lucene index from the input folder.
 
 Takes an ontology file as input and creates two CSV-files from it. One containing all information-unit-cases and one containing all PIRI-cases derivable from the input ontology.
 
+### IUCaseBase.csv
+
+This file is created by the JAVA-file described before. Containing all information-unit-cases.
+
 ### REGDOC-Ontology-Version-1-0-beta.rdf (.ttl)
 
 Ontology containing classes for hierarchical incident and measure classification. For more information have a look at the ontology, classes and porperties are self-describing.
