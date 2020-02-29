@@ -24,7 +24,11 @@ Takes an ontology file as input and creates two CSV-files from it. One containin
 
 ### IUCaseBase.csv
 
-This file is created by the JAVA-file described before. Containing all information-unit-cases.
+This file is created by the JAVA-file PIRIOntologyToCaseBase. Containing all information-unit-cases. This file can be imported in myCBR.
+
+### PIRICaseBase.csv
+
+This file is created by the JAVA-file PIRIOntologyToCaseBase.java. Containing all PIRI-cases. This file can be imported in myCBR.
 
 ### REGDOC-Ontology-Version-1-0-beta.rdf (.ttl)
 
