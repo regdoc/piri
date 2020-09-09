@@ -1,6 +1,6 @@
 # Research corpus for case-based reasoning on regulatory documents, Version 1.0 alpha
 
-Please be patient. The corpus is still in beta condition. We are continously working on the corpus and files. The first stable release will be marked as 1.0 beta
+Please be patient. The corpus is still in alpha condition. We are continously working on the corpus and files. The first stable release will be marked as 1.0 beta
 
 ## Copyright
 
