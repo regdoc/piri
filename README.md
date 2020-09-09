@@ -30,7 +30,11 @@ This file is created by the JAVA-file PIRIOntologyToCaseBase. Containing all inf
 
 This file is created by the JAVA-file PIRIOntologyToCaseBase.java. Containing all PIRI-cases. This file can be imported in myCBR.
 
-### REGDOC-Ontology-Version-1-0-beta.rdf (.ttl)
+### PIRI-HighlightPDFToOntology-ontology.ttl
+
+Ontology containing classes created from annotated PDF-files.
+
+### REGDOC-Ontology-Version-1-0-beta.rdf (.ttl) "deprecated"
 
 Ontology containing classes for hierarchical incident and measure classification. For more information have a look at the ontology, classes and porperties are self-describing.
 
