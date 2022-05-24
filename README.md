@@ -8,6 +8,10 @@ This is a RESEARCH BODY, NOT real guidance information from the Internatioal Ato
 
 For questions on the corpus please write to a.korger[ät]angesagt-gmbh.de
 
+## Folders:
+
+pyPIRI
+
 ## Files:
 
 ### PdfToText.java
