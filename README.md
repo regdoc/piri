@@ -10,7 +10,9 @@ For questions on the corpus please write to a.korger[ät]angesagt-gmbh.de
 
 ## Folders:
 
-pyPIRI
+pyPIRI contains different pipeline components for regulatory knowledge management, complex semantic concept recognition, and relation extraction. All components use spaCy and webATHEN as fundamental technologies.
+
+webATHEN contains type system descriptors to use the piri system with the webATHEN annotation environment.
 
 ## Files:
 
